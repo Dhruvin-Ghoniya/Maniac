@@ -49,6 +49,10 @@ To build the game for your target platform:
    - If you wish to build for a platform other than the default (e.g., Android, iOS, etc.), you need to download the appropriate development kit (e.g., Android Build Support, iOS Build Support) through Unity Hub.
    - Modify the project as necessary to ensure compatibility with the target platform (e.g., adjusting input controls, screen resolutions, etc.).
 
+## Downloading Game
+
+Download Game Build for windows from Releases.
+
 ---
 
 Enjoy working on **Maniacs**! Feel free to reach out if you have any questions or run into issues while working on the project.
